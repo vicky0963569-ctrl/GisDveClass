@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>逢甲大學建築物</name>
+	<gx:CascadingStyle kml:id="__managed_style_2F324F65F93B62F869B0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12ADEB14243B62F869B0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04072667BD3B62F869B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12ADEB14243B62F869B0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F324F65F93B62F869B0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0CAFCF7FD33B62F5C823">
+		<name>土木水利館</name>
+		<LookAt>
+			<longitude>120.6476068505387</longitude>
+			<latitude>24.18116204333593</latitude>
+			<altitude>98.28203428481029</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>306.8663628066861</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04072667BD3B62F869B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						120.6465249930811,24.18117862662653,0 120.6465332219327,24.18092686699316,0 120.6466003220001,24.18092972119689,0 120.6465968168968,24.18086043733549,0 120.6467065478169,24.18087721011905,0 120.6466826270728,24.18093536326239,0 120.6470961678364,24.18096080717383,0 120.6470732082637,24.18120879889309,0 120.646967227447,24.18120607969745,0 120.6468886442148,24.18122535805351,0 120.6468946064178,24.1811868202191,0 120.6465249930811,24.18117862662653,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="082CD3122A3B62F709F8">
+		<name>育樂館</name>
+		<LookAt>
+			<longitude>120.6477395187138</longitude>
+			<latitude>24.18042052506745</latitude>
+			<altitude>97.37942482153451</altitude>
+			<heading>359.9999987868522</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>307.7690375913517</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04072667BD3B62F869B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						120.646597397648,24.18066991399279,0 120.646632008041,24.17999584476247,0 120.6471304513113,24.18001213593292,0 120.6471215521567,24.18035584243441,0 120.6471126530021,24.18069954893591,0 120.646597397648,24.18066991399279,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02D91E62863B62F92977">
+		<name>商學大樓</name>
+		<LookAt>
+			<longitude>120.6498237504236</longitude>
+			<latitude>24.17843149875284</latitude>
+			<altitude>96.87772462918019</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>230.905002591353</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04072667BD3B62F869B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						120.6493038808102,24.17849910127075,0 120.6493094983925,24.17840139828024,0 120.649265736905,24.17839305837839,0 120.6492624310395,24.17825009353005,0 120.6493036515944,24.17825020331414,0 120.6493035296554,24.17822736420371,0 120.6499555003178,24.17824810197897,0 120.6499485874557,24.17842632215703,0 120.6498781643928,24.17843253294793,0 120.6498826089763,24.17853166083112,0 120.6493038808102,24.17849910127075,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="03E6143A2E3B62FA0DE4">
+		<name>人言大樓</name>
+		<LookAt>
+			<longitude>120.6484917016813</longitude>
+			<latitude>24.17976942979902</latitude>
+			<altitude>97.69051879559863</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>126.8813407735797</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04072667BD3B62F869B0</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						120.648220956416,24.17989178690341,0 120.6482225441347,24.1798461616918,0 120.6481501087577,24.17984164859547,0 120.6481400283875,24.17978820066896,0 120.6481599005326,24.17972903269937,0 120.6482276189179,24.17973249703477,0 120.648227437555,24.17968129928788,0 120.6483777515184,24.17969346423229,0 120.6483802711302,24.179668346612,0 120.6484641655618,24.17967066151213,0 120.6484741876007,24.17969696065876,0 120.648650407388,24.17970501894512,0 120.6486502066204,24.17974267328692,0 120.6487193533663,24.17974375503303,0 120.6487025754795,24.17981325416921,0 120.6487102420689,24.17985885974478,0 120.6486498121302,24.17986085648124,0 120.64864889242,24.1799088458431,0 120.648220956416,24.17989178690341,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
